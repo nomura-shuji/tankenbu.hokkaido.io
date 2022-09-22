@@ -1,0 +1,32 @@
+header{
+    background-color:beige;
+}
+
+.day{
+    position: static;
+    display: inline;
+    border-width: 1px;
+    text-align: center;
+    margin: 8px;
+}
+
+table{
+    text-align: center;
+}
+
+img{
+    border-radius: 20%;
+}
+body{
+    text-align: center;
+}
+section{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 8px;
+    background-image: url();
+}
+</head>
